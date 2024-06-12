@@ -2,7 +2,7 @@
 title: "Visual engagement is not synonymous with learning in young children"
 collection: publications
 permalink: https://escholarship.org/uc/item/0wz74769
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'XXX'
 date: 2024
 venue: 'Proceedings of the Annual Meeting of the Cognitive Science Society'
 paperurl: 'https://escholarship.org/content/qt0wz74769/qt0wz74769.pdf?t=sev3pc&v=lg'
