@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fourth-year PhD candidate at UC Berkeley where I am advised by [Celeste Kidd](https://www.kiddlab.com/) in the Kidd Lab. My work investigates what features in the world around us guide our attention, and how what we pay attention to shapes what we subsequently learn. I conduct behavioral eye-tracking experiments with preschoolers, adults and dogs.
+I am a fourth-year PhD candidate advised by Celeste Kidd at UC Berkeley, where I investigate the mechanisms that guide attention and their role in subsequent learning and decision-making. Using behavioral eye-tracking experiments and computational modeling, I study these mechanisms throughout development and across species. I am especially interested in how human cognitive capacities shape our interactions with the technologies and systems we design. This interest informs my research in attention, focusing on how an attention-driven economy shapes the media we create and consume, and the impact it has on our behavior.
