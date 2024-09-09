@@ -1,10 +1,10 @@
 ---
-title: "Visual engagement is not synonymous with learning in young children"
+title: "TESTING" #"Visual engagement is not synonymous with learning in young children"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: /publication/2024-06-01-CogSci24
+excerpt: ' '
+date: 2024-06-01
+venue: 'Proceedings of the Annual Meeting of the Cognitive Science Society'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://escholarship.org/uc/item/0wz74769'
 citation: 'Shepherd, S. S, & Kidd, C. (2024). Visual engagement is not synonymous with learning in young children. Proceedings of the Annual Meeting of the Cognitive Science Society, 46. Retrieved from https://escholarship.org/uc/item/0wz74769'
