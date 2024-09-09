@@ -1,11 +1,9 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Overstimulating media & the attention economy"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+type: "Invited lecture"
+permalink: /talks/Invitedlecture147
+venue: "Methods in Cognitive Development (UC Berkeley)"
+date: 2024-02-26
+location: "Berkeley, CA"
 ---
-
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
