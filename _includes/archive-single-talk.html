@@ -27,12 +27,7 @@
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {{ title }}
-      {% if post.link %}
-      <a href="{{ post.link }}">
-        <i class="fas fa-fw fa-link zoom" aria-hidden="true"></i>
-      </a>
-    {% endif %}
-    </h2>
+      </h2>
     {% if post.read_time %}
     <p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
   {% endif %}
