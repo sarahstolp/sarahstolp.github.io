@@ -32,10 +32,10 @@
     <p class="page__meta"><i class="fas fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
   {% endif %}
   {% if post.date %}
-    <p class="page__meta" style="font-size: 18px;"><i class="fas fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+    <p class="page__meta" style="font-size: 16px;"><i class="fas fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
   {% endif %}
   {% if post.venue %}
-    <p class="page__meta" style="font-size: 18px;">
+    <p class="page__meta" style="font-size: 16px;">
       <i class="fas fa-map-marker-alt" aria-hidden="true"></i> 
       {{ post.type }}, {{ post.venue }}. {{ post.location }}
     </p>
