@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sarah Stolp Shepherd TEST XO"
+title                    : "Sarah Stolp Shepherd"
 title_separator          : "-"
 name                     : &name "Sarah Stolp Shepherd"
 description              : &description "PhD candidate at UC Berkeley"
